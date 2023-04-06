@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 20,
+            "driver": "SQLite",
+            "name": "SQLite",
+            "database": "${workspaceFolder:olist-ml-models}/data/olist.db"
+        }
+    ]
+}
