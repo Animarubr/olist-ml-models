@@ -6,5 +6,6 @@
             "name": "SQLite",
             "database": "${workspaceFolder:olist-ml-models}/data/olist.db"
         }
-    ]
+    ],
+    "sqltools.useNodeRuntime": true
 }
